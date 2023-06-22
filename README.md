@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @manyu10
-- 👀 I’m an IT undergraduate at NSUT Delhi.
+- 👀 I’m an IT graduate from NSUT Delhi.
 - 🌱 I’m currently learning Reactjs, Web app development.
 
 <!---
